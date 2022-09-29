@@ -1,4 +1,4 @@
-# Hello! I'm Eric
+# Hello! I'm Eric 🌎🌍🌏
 
 I graduated from the university of pennsylvania in may 2022, where i studied international relations and computer science. I'm interested in peace and sustainable development through technology.
 
