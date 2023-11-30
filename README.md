@@ -1,4 +1,6 @@
-🌎🌏🌍 Hello world! </br>
+# 🌎🌏🌍 
+
+Hello world! </br>
 
 My name is Eric. I'm interested in peace and sustainability through design and technology. </br>
 
