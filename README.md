@@ -4,7 +4,7 @@ Hello world! </br>
 
 My name is Eric. I'm interested in peace and sustainability through design and technology. </br>
 
-In the past, I studied international relations and computer science at UPenn. Previously, I've been involved in [adobe](http://github.com/adobe) as a consultant intern on the Document Cloud (2021) team, an analyst for AI vision start-up [ZeroEyes](https://zeroeyes.com/), and served at the [U.S. Consulate in Guangzhou, China](https://china.usembassy-china.org.cn/embassy-consulates/guangzhou/), and was active in the Penn social entreprenuership community [PennSEM](https://www.pennsem.org/).
+In the past, I studied international relations and computer science at UPenn. Previously, I've been involved in [Adobe](http://github.com/adobe) as a consultant intern on the Document Cloud (2021) team, an analyst for AI vision start-up [ZeroEyes](https://zeroeyes.com/), and served at the [U.S. Consulate in Guangzhou, China](https://china.usembassy-china.org.cn/embassy-consulates/guangzhou/), and was active in the Penn social entreprenuership community [PennSEM](https://www.pennsem.org/).
 
 More on me @ [my website](https://www.ericdai.me/). </br>
 Want to collaborate? Reach out to me at my [email](mailto:ericdai2000@gmail.com) (ericdai2000@gmail.com) </br>
