@@ -1,7 +1,6 @@
 # 🌅
 
-Interested in interfaces and human-centered computing. I am a candidate for MSE in Computer Science at Penn. </br>
-More on me @ [my website](https://www.ericdai.me/). </br>
+Interested in interfaces and human-centered computing. I am a candidate for MSE in Computer Science at Penn.
 
 Want to collaborate? Reach out to me at my [email](mailto:ericdai2000@gmail.com) (ericdai2000@gmail.com) </br>
 
